@@ -1,0 +1,10 @@
+/bitrix/
+/upload/
+
+*
+!/bitrix/
+!/upload/
+
+*.log
+*.cache
+*.env
